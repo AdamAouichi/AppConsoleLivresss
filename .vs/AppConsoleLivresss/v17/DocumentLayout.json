@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C79CBC4-93D5-4489-8A35-44895FBD265E}|AppConsoleLivresss\\AppConsoleLivresss.csproj|c:\\ateliers\\c#\\appconsolelivresss\\appconsolelivresss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C79CBC4-93D5-4489-8A35-44895FBD265E}|AppConsoleLivresss\\AppConsoleLivresss.csproj|solutionrelative:appconsolelivresss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C79CBC4-93D5-4489-8A35-44895FBD265E}|AppConsoleLivresss\\AppConsoleLivresss.csproj|c:\\ateliers\\c#\\appconsolelivresss\\appconsolelivresss\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C79CBC4-93D5-4489-8A35-44895FBD265E}|AppConsoleLivresss\\AppConsoleLivresss.csproj|solutionrelative:appconsolelivresss\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Revue.cs",
+              "DocumentMoniker": "C:\\ateliers\\C#\\AppConsoleLivresss\\AppConsoleLivresss\\Revue.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivresss\\Revue.cs",
+              "ToolTip": "C:\\ateliers\\C#\\AppConsoleLivresss\\AppConsoleLivresss\\Revue.cs",
+              "RelativeToolTip": "AppConsoleLivresss\\Revue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:57:46.922Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "AppConsoleLivresss\\Program.cs",
               "ToolTip": "C:\\ateliers\\C#\\AppConsoleLivresss\\AppConsoleLivresss\\Program.cs",
               "RelativeToolTip": "AppConsoleLivresss\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T00:38:14.334Z",
               "EditorCaption": ""

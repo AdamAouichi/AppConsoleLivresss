@@ -1,0 +1,14 @@
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\bin\Debug\net8.0\AppConsoleLivresss.exe
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\bin\Debug\net8.0\AppConsoleLivresss.deps.json
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\bin\Debug\net8.0\AppConsoleLivresss.runtimeconfig.json
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\bin\Debug\net8.0\AppConsoleLivresss.dll
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\bin\Debug\net8.0\AppConsoleLivresss.pdb
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.GeneratedMSBuildEditorConfig.editorconfig
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.AssemblyInfoInputs.cache
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.AssemblyInfo.cs
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.csproj.CoreCompileInputs.cache
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.dll
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\refint\AppConsoleLivresss.dll
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.pdb
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\AppConsoleLivresss.genruntimeconfig.cache
+C:\ateliers\C#\AppConsoleLivresss\AppConsoleLivresss\obj\Debug\net8.0\ref\AppConsoleLivresss.dll
